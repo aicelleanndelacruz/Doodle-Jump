@@ -1,6 +1,3 @@
-
-Here’s an example README for a Doodle Jump game project:
-
 Doodle Jump
 Author: Kristelle Joy Bendicio and Aicelle-Ann De La Cruz
 Repository: GitHub - Doodle Jump
@@ -22,7 +19,7 @@ Follow these steps to set up the game:
 Clone the repository:
 bash
 Copy code
-(https://github.com/Kristellee/Doodle-Jump.git) and 
+(https://github.com/Kristellee/Doodle-Jump.git) and https://github.com/aicelleanndelacruz/Doodle-Jump.git
 Navigate to the project directory:
 bash
 Copy code
@@ -40,12 +37,11 @@ python main.py
 Use left and right arrow keys to control your character.
 
 Development Environment
-Operating System: macOS 14.3.1
 Python Version: 3.13.1
 Libraries: Pygame
 Hardware Specifications
-Device: MacBook Air (2023)
-Processor: Intel Core i5
+Device: AG1C4RQA
+Processor: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.42 GHz
 Storage: 256 GB SSD
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
